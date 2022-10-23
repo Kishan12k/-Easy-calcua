@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText mnum2;
     private Button  msubract;
     private Button  mmultiply;
-    private Button  mdivide;
+   private Button  mdivide;
 
 
 
